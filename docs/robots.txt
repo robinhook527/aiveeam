@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aiveeam.readthedocs.io/en/latest/
